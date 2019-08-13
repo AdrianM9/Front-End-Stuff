@@ -3,7 +3,7 @@ import { BrowserRouter as ReactRouter, Route, Switch } from "react-router-dom";
 import * as ROUTES from "../constants/routes";
 
 import Homepage from "./Homepage";
-import DualButton from "./DualButton";
+import DualButton from "./DualButton/index";
 
 function RouterWrapper() {
   return <Router />;
