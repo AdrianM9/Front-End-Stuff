@@ -6,12 +6,12 @@ export default function Button({ lightButtonOffset, darkButtonOffset }) {
     <ButtonWrapper>
       <Wrapper offset={lightButtonOffset}>
         <Content offset={lightButtonOffset}>
-          <LightButton>Hire Us</LightButton>
+          <LightButton>Buton Blanao</LightButton>
         </Content>
       </Wrapper>
       <Wrapper offset={darkButtonOffset}>
         <Content offset={darkButtonOffset}>
-          <DarkButton>Hire Us</DarkButton>
+          <DarkButton>Buton Blanao</DarkButton>
         </Content>
       </Wrapper>
     </ButtonWrapper>
