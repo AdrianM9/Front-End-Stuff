@@ -18,7 +18,7 @@ const App = () => {
     <>
       <Router />
       <NetlifyStatus
-        src="https://api.netlify.com/api/v1/badges/6ab1c1e7-b90b-44d9-9ef4-33b39d1a2972/deploy-status"
+        src="https://api.netlify.com/api/v1/badges/82e4e323-4642-4ae1-a450-591c79fb03e6/deploy-status"
         alt="status"
       />
     </>
